@@ -2,6 +2,8 @@ body{
 	background-color: rgb(72, 137, 242);
 	text-align: center;
 	margin: 0;
+	font-family: 'Roboto', sans-serif;
+
 }
 
 .logo-image{
@@ -55,9 +57,13 @@ body{
 	color: white;
 }
 
+.form-button:hover{
+	background-color: rgb(107, 175, 124);
+}
 
-
-
+.forgot-password-link{
+	color: grey;
+}
 
 
 
