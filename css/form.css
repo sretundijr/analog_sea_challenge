@@ -1,0 +1,65 @@
+body{
+	background-color: rgb(72, 137, 242);
+	text-align: center;
+	margin: 0;
+}
+
+.logo-image{
+	margin: 20px 0;
+	height: 35px;
+}
+
+.sign-up-logo{
+	font-size: 30px;
+	font-weight: 400;
+}
+
+.header-container{
+	padding-bottom: 20px;
+}
+
+.form-section{
+	background-color: white;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.form-body{
+	display: block;
+	width: 320px;
+	padding: 15px;
+	/*margin: 15px;*/
+	font-size: 20px;
+}
+
+.form-label{
+	text-align: left;
+}
+
+.form-input{
+	margin-left: 15px;
+}
+
+.form-button{
+	margin: 15px;
+	box-sizing: content-box;
+	background-color: rgb(107, 214, 124);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
