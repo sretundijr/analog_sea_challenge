@@ -48,6 +48,7 @@ body{
 	margin: 15px;
 	box-sizing: content-box;
 	background-color: rgb(107, 214, 124);
+	text-align: center;
 }
 
 .user-login{
